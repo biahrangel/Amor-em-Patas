@@ -1,0 +1,71 @@
+Benchmark – Amor em Patas
+Durante o desenvolvimento do projeto Amor em Patas, realizei um benchmark com algumas plataformas de adoção de animais disponíveis no Brasil. O objetivo foi identificar boas práticas, limitações e oportunidades de diferenciação para criar uma experiência mais útil, confiável e acolhedora para adotantes e protetores.
+
+Adote.Me (aplicativo)
+Pontos positivos:
+Navegação intuitiva;
+Proposta ampla, com abas para adoção, pets perdidos/encontrados e ONGs;
+Não engloba apenas cães e gatos, existem outras espécies disponíveis também;
+O processo para registrar animais parece ser simples e fácil.
+
+Pontos negativos:
+Muitas abas ainda em construção: “Perdi meu pet”, “Encontrei um pet”, “área de ONGs”;
+Não possui versão para navegador (apenas app);
+Apresenta uma funcionalidade chamada “namoro pet”, incentivando cruzamentos entre animais, algo que vai contra os princípios de adoção responsável e controle populacional;
+Baixíssima disponibilidade de animais (ex: ao pesquisar Niterói, havia apenas um animal).
+
+Conclusão parcial:
+Apesar da ideia promissora, o aplicativo parece incompleto e desatualizado, oferecendo pouca funcionalidade prática e promovendo práticas questionáveis, como reprodução entre pets.
+
+AdotePetz (site do grupo Petz)
+https://www.adotepetz.com.br/
+
+Pontos positivos:
+Interface limpa e navegação fácil;
+Filtros por cidade e loja física facilitam a busca local;
+Visualização rápida de nome, idade e foto do animal.
+Pontos negativos:
+Apenas versão web (não possui app)
+Processo de adoção limitado a um formulário simples, sem suporte ou acompanhamento (pelo menos foi o que deu para perceber no site);
+Falta de conteúdo educativo sobre castração, vacinação ou cuidados com animais.
+
+Conclusão parcial:
+A plataforma funciona como vitrine digital, mas não se aprofunda na experiência de adoção. Falta conteúdo informativo.
+
+OLX Pets (site e app)
+https://www.olx.com.br/animais-de-estimacao
+
+Pontos positivos:
+Alta visibilidade e grande quantidade de anúncios
+Filtros por região, anunciante e tipo de animal
+
+Pontos negativos:
+Forte presença de vendas de animais;
+Anúncios de adoção informal precisam colocar "R$ 1,00" como preço simbólico;
+Falta de verificação de adotantes ou anunciantes;
+Não possui estrutura voltada para adoção responsável;
+Nenhuma integração com ONGs ou protetores.
+
+Conclusão parcial:
+A OLX Pets não oferece um ambiente confiável para adoção. A lógica comercial da plataforma fere princípios de responsabilidade e bem-estar animal.
+Insights do Benchmark
+Falta integração com ONGs e protetores independentes;
+Ausência de conteúdo educativo sobre cuidados, castração, vacinação e responsabilidades da adoção;
+Interfaces funcionam mais como vitrines do que como plataformas completas;
+Nenhuma plataforma possui um processo guiado de adoção com suporte em todas as etapas.
+
+Diferenciais propostos no Amor em Patas
+Plataforma completa e funcional desde o início, com:
+Cadastro de animais
+Cadastro de ONGs e protetores
+Pets perdidos e encontrados
+Informações educativas (vacinação, castração, feiras, dicas, etc)
+Foco total em adoção responsável, sem espaço para vendas ou reprodução;
+Sistema de cadastro intuitivo, com campos úteis como temperamento e comportamento do animal (inspirado no Adote.Me, porém com interface mais bem estruturada)
+Comunicação direta com adotantes e protetores pelo app;
+Um ambiente acolhedor, confiável e informativo para todos os envolvidos.
+
+Conclusão do Benchmark
+A análise mostrou que mesmo os aplicativos ou sites existentes ainda deixam a desejar em diversos pontos: ou são incompletos (como o Adote.Me), ou superficiais (como o AdotePetz), ou completamente desalinhados com os princípios de adoção responsável (como a OLX Pets).
+O Amor em Patas nasce como resposta a esse cenário. Ele se propõe a ser um ambiente ético, informativo, funcional e acolhedor para quem quer adotar e para quem dedica a vida a proteger os animais.
+Aprendi que uma plataforma de adoção não deve apenas listar animais, mas educar, facilitar e proteger todos os envolvidos. E é isso que o Amor em Patas quer fazer diferente.
